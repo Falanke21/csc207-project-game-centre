@@ -1,11 +1,11 @@
 ## Welcome to Group 0640
 * **Contact Information**
 
-	- Chen Zhong Lu, williamcz.lu@mail.utoronto.ca, 6478897526
-	- Mengyao Li, mengyao.li@mail.utoronto.ca, 6478685835
-	- Youxuan Ma (mayouxua), youxuan.ma@mail.utoronto.ca, 6479965126
-	- Yuzhe Hua (Falanke21), yuzhe.hua@mail.utoronto.ca, 7788551144
-	- Zuoqi Wang (zuoqiwx), zuoqi.wang@mail.utoronto.ca, 6478307791
+	- Chen Zhong Lu, 6478897526
+	- Mengyao Li, 6478685835
+	- Youxuan Ma (mayouxua), 6479965126
+	- Yuzhe Hua (Falanke21), 7788551144
+	- Zuoqi Wang (zuoqiwx), 6478307791
 
 
 * **WeChat** will be used as the primary communication tool.
@@ -66,7 +66,7 @@ and the order in which the tasks need to be done. You must use a Markdown file f
     landscape screen lock, and de-featured unable to win ghost hunt.
     - Meeting 9: Nov.29, 2018 online through Wechat. Checked everyone's work progress. Addressed a few issues related to
     unit tests and design patterns.
-    - Meeting 10: Nov.29, 2018 online using Skype. Found some unwanted features (invisible wall in ghost hunt game, 
+    - Meeting 10: Nov.29, 2018 online using Skype. Found some unwanted features (invisible wall in ghost hunt game,
     ghost being naughty and disappears after auto-saving a winning game) and de-featured.  
 
 
